@@ -1,0 +1,48 @@
+body{
+    background-image: url(../imagenes/imagenesprincipales/todos3.jpg);
+
+}
+header{
+    background-color: azure;
+    padding: 5px;
+    
+}
+footer{
+    background-color: azure;
+    padding: 5px;
+
+}
+nav{
+    background-color: aquamarine;
+    padding: 5px;
+    text-align: left;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.contenido{
+    background-color: rgb( rgb(105, 115, 251) );
+    padding: 5px;
+    margin: 2px;
+    display: flex;
+}
+section{
+    background-color: aquamarine;
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 200px;
+}
+*{
+    text-align: center;
+    margin: 10px;
+}
+input{
+    background-color: chartreuse;
+    width: 80%;
+    height: 50px;
+}
+label{
+    color: coral;
+}
